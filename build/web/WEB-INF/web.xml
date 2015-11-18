@@ -21,4 +21,8 @@
     <welcome-file-list>
         <welcome-file>faces/index.xhtml</welcome-file>
     </welcome-file-list>
+    <mime-mapping>
+  <extension>less</extension>
+  <mime-type>stylesheet/less</mime-type>
+    </mime-mapping>
 </web-app>
