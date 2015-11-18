@@ -236,6 +236,42 @@ p {
     background-color:#FECE1A;
     color:#181A1C;
 }
+
+/*freds modified button css | start*/
+.button1,  .button1:visited, .button1:focus {
+    display:inline-block;
+    /*border:1px solid #181A1C;
+    color:#181A1C;*/
+    border:1px solid greenyellow;
+    color:greenyellow;
+    background-color:transparent;
+    padding:15px 30px;
+    font-size:17px;
+    line-height:auto;
+}
+.button1:hover, .button1:active{
+    background-color:#181A1C;
+    color:#fff;
+}
+.button-sp1, .button-sp1:visited, .button-sp1:focus {
+    border:none;
+    background-color:#FECE1A;
+    color:#181A1C;
+}
+.button-sp1:hover, .button-sp1:active {
+    background-color:#181A1C;
+    color:#FECE1A;
+}
+.button-ps1, .button-ps1:visited, .button-ps1:focus {
+    border:none;
+    background-color:#181A1C;
+    color:#FECE1A;
+}
+.button-ps1:hover, .button-ps1:active {
+    background-color:#FECE1A;
+    color:#181A1C;
+}
+/*end of freds modified button css*/
 /*
 2.3 Thumbnails - Predefined bootstrap's thumbnail class.
 **********/
