@@ -399,7 +399,8 @@ p {
     background:#181A1C;
 }
 .primary-section .triangle {
-    border-top: 40px solid #FECE1A;
+    /*border-top: 40px solid #FECE1A;*/
+    border-top: 40px solid #16312E;
 }
 .primary-section .title {
     border-bottom: 1px solid #FFF;
